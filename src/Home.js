@@ -31,7 +31,7 @@ export default function Home() {
                                 background="#f35423"
                                 color="#e7df03"
                                 _hover={{ bg: "#fe5724", borderWidth: "2px" }}>
-                                <a href="#">VIEW SITE</a>
+                                <a href="https://bwayrush.com/">VIEW SITE</a>
                             </Button>
                         </center>
                         <center>
@@ -43,7 +43,7 @@ export default function Home() {
                                 background="#f35423"
                                 color="#e7df03"
                                 _hover={{ bg: "#fe5724", borderWidth: "2px" }}>
-                                JOIN SLACK
+                                <a href="https://notify-me-network.slack.com/archives/C085NHMTFC5">JOIN SLACK</a>
                             </Button>
                         </center>
                     </Grid>
