@@ -3,7 +3,7 @@ import { Box, Button, Flex, Grid } from "@chakra-ui/react";
 
 export default function Home() {
     return (
-        <div style={{background:"#e7df03", minHeight:"100vh", margin: 0}}>
+        <div style={{ background: "#e7df03", minHeight: "100vh", margin: 0 }}>
             <Box background={"#e7df03"} p="5"></Box>
             <Box background={"#fe5724"} mx="15vh" mb="10" p="5" color="#e7df03">
                 <center>
@@ -19,17 +19,35 @@ export default function Home() {
                 </center>
             </Box>
             <text>
-            <Grid templateColumns="repeat(2, 1fr)" gap={10}>
-                <Box background="#f35423" ml="10">hi</Box>
-                <Grid templateRows="repeat(2, 1fr)" gap={10}>
-                    <center>
-                <Button asChild borderColor="black" w="125px" fontSize= "17" background="#f35423" color="#e7df03" _hover={{ bg: "#fe5724", borderWidth: "2px" }}><a href="#">VIEW SITE</a></Button>
-                </center>
-                <center>
-                <Button asChild borderColor="black" w="125px" fontSize= "17" background="#f35423" color="#e7df03" _hover={{ bg: "#fe5724", borderWidth: "2px" }}>JOIN SLACK</Button>
-                </center>
+                <Grid templateColumns="repeat(2, 1fr)" gap={10}>
+                    <Box background="#f35423" ml="10">hi</Box>
+                    <Grid templateRows="repeat(2, 1fr)" gap={10}>
+                        <center>
+                            <Button
+                                asChild
+                                borderColor="black"
+                                w="125px"
+                                fontSize="17"
+                                background="#f35423"
+                                color="#e7df03"
+                                _hover={{ bg: "#fe5724", borderWidth: "2px" }}>
+                                <a href="#">VIEW SITE</a>
+                            </Button>
+                        </center>
+                        <center>
+                            <Button
+                                asChild
+                                borderColor="black"
+                                w="125px"
+                                fontSize="17"
+                                background="#f35423"
+                                color="#e7df03"
+                                _hover={{ bg: "#fe5724", borderWidth: "2px" }}>
+                                JOIN SLACK
+                            </Button>
+                        </center>
+                    </Grid>
                 </Grid>
-            </Grid>
             </text>
         </div>
     );
