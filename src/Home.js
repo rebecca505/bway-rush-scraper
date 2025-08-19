@@ -26,34 +26,30 @@ export default function Home() {
                             <text>Stay on top of the latest Broadway rush ticket updates with ease. My site automatically tracks rush, digital lottery, and discount ticket offerings across shows. Whenever a new deal or change appears, the site instantly sends a Slack notification so you never miss an opportunity. Whether it’s a brand-new student rush, a price drop, or an upcoming preview, B’way Rush Checker keeps you in the loop—so you can spend less time refreshing pages and more time at the theater.</text>
                         </Box>
                     </Box>
-                    <Grid templateRows="repeat(2, 1fr)" mr="15vh">
-                        <center>
-                            <Button
-                                asChild
-                                borderColor="black"
-                                w="125px"
-                                fontSize="17"
-                                background="#f35423"
-                                color="#e7df03"
-                                _hover={{ bg: "#fe5724", borderWidth: "2px" }}
-                                borderWidth=".5px">
-                                <a href="https://bwayrush.com/">VIEW SITE</a>
-                            </Button>
-                        </center>
-                        <center>
-                            <Button
-                                asChild
-                                borderColor="black"
-                                w="125px"
-                                fontSize="17"
-                                background="#f35423"
-                                color="#e7df03"
-                                _hover={{ bg: "#fe5724", borderWidth: "2px" }}
-                                borderWidth=".5px">
-                                <a href="https://notify-me-network.slack.com/archives/C085NHMTFC5">JOIN SLACK</a>
-                            </Button>
-                        </center>
-                    </Grid>
+                    <Flex direction="column" gap={10} mr="15vh" align="center">
+                        <Button
+                            asChild
+                            borderColor="black"
+                            w="125px"
+                            fontSize="17"
+                            background="#f35423"
+                            color="#e7df03"
+                            _hover={{ bg: "#fe5724", borderWidth: "2px" }}
+                            borderWidth=".5px">
+                            <a href="https://bwayrush.com/">VIEW SITE</a>
+                        </Button>
+                        <Button
+                            asChild
+                            borderColor="black"
+                            w="125px"
+                            fontSize="17"
+                            background="#f35423"
+                            color="#e7df03"
+                            _hover={{ bg: "#fe5724", borderWidth: "2px" }}
+                            borderWidth=".5px">
+                            <a href="https://notify-me-network.slack.com/archives/C085NHMTFC5">JOIN SLACK</a>
+                        </Button>
+                    </Flex>
                 </Grid>
             </text>
         </div>
