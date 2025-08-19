@@ -3,8 +3,8 @@ import { Box, Button, Flex, Grid } from "@chakra-ui/react";
 
 export default function Home() {
     return (
-        <div>
-            <Box background={"white"} p="5"></Box>
+        <div style={{background:"#e7df03", minHeight:"100vh", margin: 0}}>
+            <Box background={"#e7df03"} p="5"></Box>
             <Box background={"#fe5724"} mx="15vh" mb="10" p="5" color="#e7df03">
                 <center>
                     <p style={{
