@@ -23,10 +23,10 @@ export default function Home() {
                 <Box background="#f35423" ml="10">hi</Box>
                 <Grid templateRows="repeat(2, 1fr)" gap={10}>
                     <center>
-                <Button w="125px" fontSize= "17" background="#f35423" color="#e7df03" textDecoration="black" _hover={{ bg: "#fe5724" }}>VIEW SITE</Button>
+                <Button asChild borderColor="black" w="125px" fontSize= "17" background="#f35423" color="#e7df03" _hover={{ bg: "#fe5724", borderWidth: "2px" }}><a href="#">VIEW SITE</a></Button>
                 </center>
                 <center>
-                <Button w="125px" fontSize= "17" background="#f35423" color="#e7df03" textDecoration="black" _hover={{ bg: "#fe5724" }}>JOIN SLACK</Button>
+                <Button asChild borderColor="black" w="125px" fontSize= "17" background="#f35423" color="#e7df03" _hover={{ bg: "#fe5724", borderWidth: "2px" }}>JOIN SLACK</Button>
                 </center>
                 </Grid>
             </Grid>
