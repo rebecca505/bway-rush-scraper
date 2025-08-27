@@ -67,8 +67,8 @@ export default function Home() {
                             <a href="https://bwayrush.com/">VIEW SITE</a>
                         </Button>
                         <Button
-                            disabled
-                            // asChild
+                            // disabled
+                            asChild
                             borderColor="black"
                             w={dynamicWidth}
                             fontSize={dynamicFont}
@@ -76,9 +76,9 @@ export default function Home() {
                             color="#e7df03"
                             _hover={{ bg: "#fe5724", borderWidth: "2px" }}
                             borderWidth=".5px">
-                            {/* <a href="https://notify-me-network.slack.com/archives/C085NHMTFC5"> */}
+                            <a href="https://notify-me-network.slack.com/archives/C085NHMTFC5">
                             JOIN SLACK
-                            {/* </a> */}
+                            </a>
                         </Button>
                     </Flex>
                 </Grid>
