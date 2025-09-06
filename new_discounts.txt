@@ -5,3 +5,8 @@ mobile, Liberation
 --- 2025-08-27 05:13:25 ---
 in-person, Art
 digital, $49in-person
+
+--- 2025-09-06 05:11:58 ---
+student, Punch
+mobile, $35+3student
+mtc35, $49mobile
