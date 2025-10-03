@@ -20,3 +20,8 @@ bo opening, Liberation
 
 --- 2025-09-26 05:13:08 ---
 digital, $32student
+
+--- 2025-10-03 05:13:00 ---
+in-person, Two Strangers (Carry a Cake Across New York)
+digital, $42in-person
+bo opening, $48digital
