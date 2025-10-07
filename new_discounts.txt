@@ -28,3 +28,15 @@ bo opening, $48digital
 
 --- 2025-10-06 05:13:35 ---
 digital, Little Bear Ridge Road
+
+--- 2025-10-07 05:12:56 ---
+in-person, Beetlejuice
+digital, $45in-person
+in-person, Liberation
+digital, $39in-person
+digital, $45digital
+under 30, $50digital
+digital, $49digital
+in-person, The Queen of Versailles
+mobile, $45in-person
+digital, $45mobile
