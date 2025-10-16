@@ -40,3 +40,6 @@ digital, $49digital
 in-person, The Queen of Versailles
 mobile, $45in-person
 digital, $45mobile
+
+--- 2025-10-16 05:13:45 ---
+in-person, Chess
