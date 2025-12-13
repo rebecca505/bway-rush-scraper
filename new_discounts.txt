@@ -58,3 +58,7 @@ mobile, $25student
 
 --- 2025-12-12 05:16:34 ---
 mobile, Bug
+
+--- 2025-12-13 05:14:31 ---
+in-person, All Out
+digital, $40in-person
