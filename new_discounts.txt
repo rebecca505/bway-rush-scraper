@@ -65,3 +65,6 @@ digital, $40in-person
 
 --- 2026-01-07 05:20:21 ---
 15th anniv., $53mobile
+
+--- 2026-01-10 05:16:18 ---
+in-person, $40in-person
