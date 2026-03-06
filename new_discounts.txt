@@ -85,3 +85,7 @@ in-person, Chicago
 --- 2026-03-05 05:42:17 ---
 mobile, Dog Day Afternoon
 bo opening, Titaníque
+
+--- 2026-03-06 05:39:56 ---
+digital, Death of a Salesman
+mobile, Becky Shaw
