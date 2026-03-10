@@ -96,3 +96,7 @@ in-person, Death of a Salesman
 --- 2026-03-08 05:38:18 ---
 in-person, Dog Day Afternoon
 mobile, $20in-personon 3/10
+
+--- 2026-03-10 05:40:17 ---
+in-person, $20in-personon 3/10
+in-person, Giant
