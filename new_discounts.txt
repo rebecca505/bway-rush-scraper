@@ -100,3 +100,8 @@ mobile, $20in-personon 3/10
 --- 2026-03-10 05:40:17 ---
 in-person, $20in-personon 3/10
 in-person, Giant
+
+--- 2026-03-17 05:54:45 ---
+in-person, Cats: The Jellicle Ball
+in-person, The Fear of 13
+mobile, Titaníque
