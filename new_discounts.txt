@@ -108,3 +108,9 @@ mobile, Titaníque
 
 --- 2026-03-18 05:58:35 ---
 in-person, Titaníque
+
+--- 2026-03-25 05:56:23 ---
+in-person, The Rocky Horror Show
+mobile, 50% offstudent
+in-person, Schmigadoon!
+digital, Schmigadoon!
