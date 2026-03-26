@@ -114,3 +114,8 @@ in-person, The Rocky Horror Show
 mobile, 50% offstudent
 in-person, Schmigadoon!
 digital, Schmigadoon!
+
+--- 2026-03-26 06:07:55 ---
+in-person, Beaches
+in-person, The Lost Boys
+digital, The Lost Boys
