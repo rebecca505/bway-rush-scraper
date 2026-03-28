@@ -119,3 +119,10 @@ digital, Schmigadoon!
 in-person, Beaches
 in-person, The Lost Boys
 digital, The Lost Boys
+
+--- 2026-03-28 05:52:04 ---
+student, Joe Turner's Come and Gone
+in-person, $35student
+mobile, The Balusters
+student, Proof
+digital, $45student
