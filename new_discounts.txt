@@ -133,3 +133,7 @@ digital, $45student
 
 --- 2026-04-02 06:07:47 ---
 in-person, Fallen Angels
+
+--- 2026-05-05 07:12:47 ---
+in-person, Proof
+student, Wicked
