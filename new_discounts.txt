@@ -137,3 +137,6 @@ in-person, Fallen Angels
 --- 2026-05-05 07:12:47 ---
 in-person, Proof
 student, Wicked
+
+--- 2026-05-16 07:10:12 ---
+in-person, Celebrity Autobiography
