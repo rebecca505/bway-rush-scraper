@@ -140,3 +140,6 @@ student, Wicked
 
 --- 2026-05-16 07:10:12 ---
 in-person, Celebrity Autobiography
+
+--- 2026-06-17 09:25:56 ---
+in-person, $49mobile
