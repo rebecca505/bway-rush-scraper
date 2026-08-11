@@ -149,3 +149,6 @@ in-person, $49mobile
 
 --- 2026-08-06 07:33:57 ---
 in-person, Wicked
+
+--- 2026-08-11 05:48:46 ---
+mobile, Paranormal Activity
