@@ -166,3 +166,6 @@ bo opening, The Sound of Music
 
 --- 2026-09-22 09:34:37 ---
 mobile, Other Desert Cities
+
+--- 2026-09-25 09:56:45 ---
+mobile, $?in-person
