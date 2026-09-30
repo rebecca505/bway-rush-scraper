@@ -169,3 +169,7 @@ mobile, Other Desert Cities
 
 --- 2026-09-25 09:56:45 ---
 mobile, $?in-person
+
+--- 2026-09-30 10:50:20 ---
+digital, 860
+in-person, $59digital
