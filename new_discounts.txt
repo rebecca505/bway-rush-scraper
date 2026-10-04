@@ -173,3 +173,6 @@ mobile, $?in-person
 --- 2026-09-30 10:50:20 ---
 digital, 860
 in-person, $59digital
+
+--- 2026-10-04 10:49:43 ---
+digital, Wanted
