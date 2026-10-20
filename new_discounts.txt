@@ -182,3 +182,7 @@ digital, $30digital
 
 --- 2026-10-19 10:25:30 ---
 mobile, $45mobile
+
+--- 2026-10-20 09:44:22 ---
+in-person, Downstate
+student, Here There Are Blueberries
