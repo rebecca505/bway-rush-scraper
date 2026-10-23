@@ -193,3 +193,7 @@ digital, $19.79front rows
 
 --- 2026-10-22 09:45:35 ---
 bo opening, Now You See Me Live
+
+--- 2026-10-23 09:41:38 ---
+digital, Much Ado About Nothing
+student, $49digital
