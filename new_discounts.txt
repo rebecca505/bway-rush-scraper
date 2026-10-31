@@ -197,3 +197,6 @@ bo opening, Now You See Me Live
 --- 2026-10-23 09:41:38 ---
 digital, Much Ado About Nothing
 student, $49digital
+
+--- 2026-10-31 10:40:58 ---
+in-person, Inter Alia
