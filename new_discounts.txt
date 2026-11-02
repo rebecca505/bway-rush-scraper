@@ -200,3 +200,6 @@ student, $49digital
 
 --- 2026-10-31 10:40:58 ---
 in-person, Inter Alia
+
+--- 2026-11-02 12:59:11 ---
+digital, Here There Are Blueberries
