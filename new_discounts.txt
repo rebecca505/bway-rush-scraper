@@ -203,3 +203,7 @@ in-person, Inter Alia
 
 --- 2026-11-02 12:59:11 ---
 digital, Here There Are Blueberries
+
+--- 2026-11-03 12:32:09 ---
+digital, It's a Wonderful Life
+in-person, $49digital
