@@ -207,3 +207,9 @@ digital, Here There Are Blueberries
 --- 2026-11-03 12:32:09 ---
 digital, It's a Wonderful Life
 in-person, $49digital
+
+--- 2026-11-07 11:25:25 ---
+in-person, Galileo
+in-person, Now You See Me Live
+mobile, Now You See Me Live
+digital, $42mobile
