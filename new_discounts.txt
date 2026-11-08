@@ -213,3 +213,6 @@ in-person, Galileo
 in-person, Now You See Me Live
 mobile, Now You See Me Live
 digital, $42mobile
+
+--- 2026-11-08 11:37:44 ---
+mobile, $42in-person
