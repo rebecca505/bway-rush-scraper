@@ -220,3 +220,6 @@ mobile, $42in-person
 --- 2026-11-11 12:18:56 ---
 in-person, Blue Man Group: A New Holiday Surprise
 digital, Blue Man Group: A New Holiday Surprise
+
+--- 2026-11-13 12:45:01 ---
+in-person, $40mobile
